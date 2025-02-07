@@ -1,5 +1,15 @@
 # 💫 About Me:
-Education: B.Tech in Artificial Intelligence, St. Vincent Palloti College of Engineering, Nagpur (CGPA: 9.98/10).<br>Internship: Infosys Springboard (Nov 2024 – Dec 2024)<br>Developed an Object Recognition System achieving 90% accuracy using a custom dataset.<br>Projects:<br>Object Recognition System: Trained YOLOv8 on a custom dataset of 5,000+ images, achieving 80% accuracy.<br>LinkedIn Job Application Automation: Automated job applications using Selenium, reducing manual effort by 80%.<br>Rain Alert System: Integrated OpenWeatherMap and Twilio APIs to deliver real-time SMS alerts with 98% accuracy.<br>Technical Skills:<br>Languages: Python, C++, C, MySQL, Flask, Django, HTML, CSS, JavaScript.<br>Technologies: GitHub, Web Scraping, RESTful APIs, Selenium, BeautifulSoup, Automation.<br>Passionate about AI, machine learning, automation, and developing impactful real-world solutions.
+🎓 Aspiring AI Engineer with a strong foundation in Python, web development, and artificial intelligence. Currently pursuing a B.Tech in AI at SVPCET, I am passionate about leveraging my skills to build AI-driven solutions and modern web applications.
+
+🚀 I have developed impactful projects like:
+🔹 A Rain Alert System using OpenWeatherMap & Twilio for real-time weather notifications.
+🔹 An Object Recognition System trained on a custom dataset for accurate object detection.
+
+📚 With a CGPA of 9.98/10, I am dedicated to academic excellence and continuously enhance my expertise through hands-on projects and certifications in AI & ML.
+
+💡 Proficient in Python, C++, Flask, Django, MySQL, JavaScript, HTML/CSS, and experienced in web scraping, automation, and RESTful APIs.
+
+🔍 Actively seeking opportunities to collaborate on innovative AI projects and internships that allow me to contribute and grow in the field of AI & web development.
 
 
 ## 🌐 Socials:
