@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 Aspiring AI Engineer with a strong foundation in Python, web development, and artificial intelligence. Currently pursuing a B.Tech in AI at SVPCET, I am passionate about leveraging my skills to build AI-driven solutions and modern web applications.
+🎓 Aspiring AI Engineer with a strong foundation in Python, web development, and artificial intelligence.  Currently pursuing a B.Tech in AI at SVPCET, I am passionate about leveraging my skills to build AI-driven solutions and modern web applications.
 
-🚀 I have developed impactful projects like:
+🚀 I have developed impactful projects like:  <br>
 🔹 A Rain Alert System using OpenWeatherMap & Twilio for real-time weather notifications.
 🔹 An Object Recognition System trained on a custom dataset for accurate object detection.
 
