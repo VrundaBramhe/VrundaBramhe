@@ -5,7 +5,7 @@
 🔹 A Rain Alert System using OpenWeatherMap & Twilio for real-time weather notifications.<br>
 🔹 An Object Recognition System trained on a custom dataset for accurate object detection.
 
-📚 With a CGPA of 9.98/10, I am dedicated to academic excellence and continuously enhance my expertise through hands-on projects and certifications in AI & ML.
+📚 With a CGPA of 9.29/10, I am dedicated to academic excellence and continuously enhance my expertise through hands-on projects and certifications in AI & ML.
 
 💡 Proficient in Python, C++, Flask, Django, MySQL, JavaScript, HTML/CSS, and experienced in web scraping, automation, and RESTful APIs.
 
