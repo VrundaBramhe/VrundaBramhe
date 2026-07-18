@@ -1,6 +1,6 @@
 ## About Me
 
-I'm **Vrunda Bramhe**, a B.Tech student in **Artificial Intelligence** at St. Vincent Pallotti College of Engineering, Nagpur (CGPA: 9.68), graduating in 2027. I enjoy building things that sit at the intersection of **web development, data analytics, and automation** — from full-stack apps to Power BI dashboards that turn raw data into decisions.
+I'm **Vrunda Bramhe**, a B.Tech student in **Artificial Intelligence** at St. Vincent Pallotti College of Engineering, Nagpur (CGPA: 9.68), graduating in 2027. I'm passionate about **full stack development** — building complete web applications from the ground up, crafting clean frontends with HTML, CSS, and JavaScript, and backing them with solid logic and databases.
 
 
 ---
@@ -46,7 +46,7 @@ A recipe discovery app for culinary enthusiasts, built with a clean MVC architec
 
 <div align="center">
 
-### Languages & Core
+### Languages & Frontend
 
 <table>
 <tr>
