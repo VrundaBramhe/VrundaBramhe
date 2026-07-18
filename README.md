@@ -90,12 +90,13 @@ A recipe discovery app for culinary enthusiasts, built with a clean MVC architec
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://in.pinterest.com/pin/988188343268830170/" width="140" /><br>
+<img src="./assets/doodle-paint.jpg" width="140" />
+<br>
 <b>Doodle & Paint 🎨</b><br>
 brushes, colors, lil sketches
 </td>
 <td align="center" width="50%">
-<img src="https://in.pinterest.com/pin/988188343268830175/" width="140" /><br>
+   <img src="./assets/click-photos.jpg" width="140" /><br>
 <b>Click Photos 📸</b><br>
 capturing pretty lil moments
 </td>
