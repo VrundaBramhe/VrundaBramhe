@@ -31,7 +31,7 @@ A platform enabling farmers to monetize idle farming equipment by renting it out
 A recipe discovery app for culinary enthusiasts, built with a clean MVC architecture.
 
 **Highlights:**
-- Clear Model-View-Controller separation for faster feature development
+- Modular architecture for faster development
 - Integrates a live recipe API for real-time data retrieval
 
 **Tech Stack:** JavaScript, HTML/CSS
