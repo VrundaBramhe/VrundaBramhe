@@ -88,25 +88,15 @@ A recipe discovery app for culinary enthusiasts, built with a clean MVC architec
 
 <table>
 <tr>
-<td align="center" width="25%">
-🎨<br>
-<b>Design & UI</b><br>
-Exploring clean, usable interfaces
+<td align="center" width="50%">
+<img src="https://pin.it/4LqhipkOK" width="140" /><br>
+<b>Doodle & Paint 🎨</b><br>
+brushes, colors, lil sketches
 </td>
-<td align="center" width="25%">
-📊<br>
-<b>Data Storytelling</b><br>
-Turning numbers into insights
-</td>
-<td align="center" width="25%">
-🌱<br>
-<b>Continuous Learning</b><br>
-Certifications & new tech
-</td>
-<td align="center" width="25%">
-🤝<br>
-<b>Side Projects</b><br>
-Building & experimenting
+<td align="center" width="50%">
+<img src="https://pin.it/4C5tJI2sZ" width="140" /><br>
+<b>Click Photos 📸</b><br>
+capturing pretty lil moments
 </td>
 </tr>
 </table>
