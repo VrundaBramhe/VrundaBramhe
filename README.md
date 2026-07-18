@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+Vrunda%27s+GitHub+Profile" alt="Typing SVG" />
+
+</div>
+
+
 ## About Me
 
 I'm **Vrunda Bramhe**, a B.Tech student in **Artificial Intelligence** at St. Vincent Pallotti College of Engineering, Nagpur (CGPA: 9.68), graduating in 2027. I'm passionate about **full stack development** — building complete web applications from the ground up, crafting clean frontends with HTML, CSS, and JavaScript, and backing them with solid logic and databases.
