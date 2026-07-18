@@ -67,14 +67,6 @@ A recipe discovery app for culinary enthusiasts, built with a clean MVC architec
 </tr>
 </table>
 
-### Data & Analytics
-
-<table>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Power BI" /><br>Power BI</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
-</tr>
-</table>
 
 ### Tools & Platforms
 
@@ -82,7 +74,7 @@ A recipe discovery app for culinary enthusiasts, built with a clean MVC architec
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" /><br>Selenium</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
 </tr>
 </table>
 
