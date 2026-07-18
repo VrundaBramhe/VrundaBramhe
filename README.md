@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/welcome-mountain-banner.svg" alt="Welcome to Vrunda's GitHub Profile" width="100%" height="70%" />
+<img src="./assets/welcome-mountain-banner.svg" alt="Welcome to Vrunda's GitHub Profile" width="100%" height="20%" />
 </div>
 
 
