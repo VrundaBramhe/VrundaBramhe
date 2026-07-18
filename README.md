@@ -2,13 +2,14 @@
 
 I'm **Vrunda Bramhe**, a B.Tech student in **Artificial Intelligence** at St. Vincent Pallotti College of Engineering, Nagpur (CGPA: 9.68), graduating in 2027. I enjoy building things that sit at the intersection of **web development, data analytics, and automation** — from full-stack apps to Power BI dashboards that turn raw data into decisions.
 
+
 ---
 
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### FarmRentals
 **Equipment Rental Platform for Farmers**
@@ -22,7 +23,7 @@ A platform enabling farmers to monetize idle farming equipment by renting it out
 **Tech Stack:** HTML, CSS, JavaScript, SQL
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### DishFetch
 **Recipe Search & Management App**
