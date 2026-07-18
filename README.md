@@ -57,11 +57,20 @@ A recipe discovery app for culinary enthusiasts, built with a clean MVC architec
 </tr>
 </table>
 
+### Backend & Database
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /><br>Express.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL</td>
+</tr>
+</table>
+
 ### Data & Analytics
 
 <table>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Power BI" /><br>Power BI</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
 </tr>
