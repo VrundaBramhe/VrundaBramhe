@@ -108,5 +108,7 @@ capturing pretty lil moments
 ## Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/vrundabramhe"><img src="./assets/readme-aura-component-0-09d47d7f.svg" width="140" height="44" /></a><a href="https://x.com/vrundabramhe"><img src="./assets/readme-aura-component-1-897afb9e.svg" width="110" height="44" /></a><a href="https://t.me/vrundabramhe"><img src="./assets/readme-aura-component-2-dbb258f8.svg" width="140" height="44" /></a><a href="mailto:vrundabramhe@gmail.com"><img src="./assets/readme-aura-component-3-63e66e32.svg" width="120" height="44" /></a><a href="https://github.com/VrundaBramhe"><img src="./assets/readme-aura-component-4-7b51661f.svg" width="150" height="44" /></a>
+<a href="https://linkedin.com/in/vrundabramhe"><img src="./assets/readme-aura-component-0-09d47d7f.svg" width="140" height="44" /></a><a href="mailto:vrundabramhe@gmail.com">
+  <img src="./assets/readme-aura-component-3-63e66e32.svg" width="120" height="44" />
+</a><a href="https://github.com/VrundaBramhe"><img src="./assets/readme-aura-component-4-7b51661f.svg" width="150" height="44" /></a>
 </p>
