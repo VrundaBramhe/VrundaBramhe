@@ -1,7 +1,5 @@
-<div align="center">
-
-<img src="./assets/welcome-typing.svg" alt="Welcome to Vrunda's GitHub Profile" />
-
+Readme · MD<div align="center">
+<img src="./assets/welcome-mountain-banner.svg" alt="Welcome to Vrunda's GitHub Profile" width="100%" />
 </div>
 
 
